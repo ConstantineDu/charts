@@ -1,91 +1,99 @@
-country,total,population,perCapita,continent
-Argentina,2987,38859125,7.687,southAmerica
-Armenia,67,2810664,2.384,europe
-Aruba,2,97110,2.06,northAmerica
-Australia,2608,21600180,12.074,oceania
-Austria,1291,8079615,15.978,europe
-Bahamas,5,348959,1.433,northAmerica
-Bahrain,5,1214492,0.412,asia
-Belarus,1902,8910240,21.346,europe
-Belgium,1895,10526149,18.003,europe
-Belize,17,305888,5.558,northAmerica
-Brazil,10513,187458852,5.608,southAmerica
-Brunei Darussalam,4,373361,1.071,asia
-Bulgaria,721,6920644,10.418,europe
-Canada,4054,33314836,12.169,northAmerica
-Chile,1738,16242244,10.7,southAmerica
-Colombia,2068,43546298,4.749,southAmerica
-Costa Rica,311,4347229,7.154,northAmerica
-Croatia,692,4044457,17.11,europe
-Cuba,1499,10792690,13.889,northAmerica
-Cyprus,45,813016,5.535,europe
-Czech Republic,1577,9936780,15.87,europe
-Denmark,610,5299698,11.51,europe
-Ecuador,676,14054613,4.81,southAmerica
-Egypt,149,78431389,0.19,africa
-El Salvador,484,5657250,8.555,northAmerica
-Estonia,218,1243096,17.537,europe
-Finland,887,5135433,17.272,europe
-France,9600,59910069,16.024,europe
-French Guiana,19,222674,8.533,southAmerica
-Georgia,157,4192600,3.745,europe
-Germany,10091,77270988,13.059,europe
-Greece,533,10431289,5.11,europe
-Guadeloupe,39,424123,9.195,northAmerica
-Guatemala,455,13641878,3.335,northAmerica
-Guyana,210,683867,30.708,southAmerica
-Hong Kong SAR,997,6919200,14.409,asia
-Hungary,2092,9433840,22.175,europe
-Iceland,49,300456,16.309,europe
-Iran (Islamic Rep of),2442,70575720,3.46,asia
-Ireland,487,4227378,11.52,europe
-Israel,372,7226008,5.148,asia
-Italy,4290,57503331,7.46,europe
-Japan,25991,120514000,21.567,asia
-Kazakhstan,3512,15215382,23.082,europe
-Kuwait,41,3574090,1.147,asia
-Kyrgyzstan,446,5012200,8.898,asia
-Latvia,383,1912464,20.027,europe
-Lithuania,1085,2806627,38.659,europe
-Luxembourg,40,512689,7.802,europe
-Malta,22,402728,5.463,europe
-Martinique,27,367843,7.34,northAmerica
-Mauritius,98,1147390,8.541,southAmerica
-Mayotte,3,191591,1.566,africa
-Mexico,5711,111036708,5.143,northAmerica
-Netherlands,1856,15899508,11.673,europe
-New Zealand,513,4129770,12.422,oceania
-Nicaragua,351,5326935,6.589,northAmerica
-Norway,554,4767605,11.62,europe
-Panama,130,3457387,3.76,northAmerica
-Paraguay,323,5786207,5.582,southAmerica
-Poland,6218,36023694,17.261,europe
-Portugal,1052,9985074,10.536,europe
-Puerto Rico,241,3471665,6.942,northAmerica
-Qatar,37,2135349,1.733,asia
-Republic of Korea,14426,48248224,29.9,asia
-Republic of Moldova,576,3363814,17.123,europe
-Reunion,93,781254,11.904,africa
-Rodrigues,2,37773,5.295,africa
-Romania,2407,19003345,12.666,europe
-Russian Federation,28690,134713962,21.297,europe
-Saint Lucia,14,164790,8.496,northAmerica
-Serbia,1197,6832840,17.518,europe
-Seychelles,9,82541,10.904,africa
-Singapore,357,3661456,9.75,asia
-Slovakia,616,5122209,12.026,europe
-Slovenia,446,1948276,22.892,europe
-South Africa,587,48192699,1.218,africa
-Spain,3873,44227625,8.757,europe
-Suriname,131,492359,26.607,southAmerica
-Sweden,1230,9024081,13.63,europe
-Switzerland,1071,7681318,13.943,europe
-TFYR Macedonia,170,1947542,8.729,europe
-Thailand,3961,60766487,6.518,asia
-Turkey,1810,69880352,2.59,europe
-Turkmenistan,101,4748055,2.127,asia
-United Kingdom,4824,60091793,8.028,europe
-United States of America,41143,295322862,13.932,northAmerica
-Uruguay,546,3164670,17.253,southAmerica
-Uzbekistan,1950,26838924,7.266,asia
-Venezuela (Bolivarian Republic of),618,27345912,2.26,southAmerica
+topic,Available Functions,Tested Functions,Coverage,Model
+Vpa,11,26,42.30%,Changan UNI-T 
+APP Management ,3,7,42.90%,Changan UNI-T 
+Remote Service ,6,8,75.00%,Changan UNI-T 
+Personalization,0,10,0,Changan UNI-T 
+Instant Massage,4,7,57.10%,Changan UNI-T 
+Smart Navigation,7,15,46.70%,Changan UNI-T 
+Smart Parking ,4,13,30.80%,Changan UNI-T 
+Smart Charging,0,18,0,Changan UNI-T 
+Car Wallet,0,6,0,Changan UNI-T 
+Game,3,17,17.70%,Changan UNI-T 
+Video,0,15,0,Changan UNI-T 
+Music,4,16,25%,Changan UNI-T 
+Ticket Booking,0,6,0,Changan UNI-T 
+Food Ordering,0,7,0,Changan UNI-T 
+Vpa,14,26,53.80%,BYD Dolphin 
+APP Management ,4,7,57.10%,BYD Dolphin 
+Remote Service ,5,8,62.50%,BYD Dolphin 
+Personalization,4,10,40.00%,BYD Dolphin 
+Instant Massage,7,7,100.00%,BYD Dolphin 
+Smart Navigation,13,15,86.70%,BYD Dolphin 
+Smart Parking ,6,13,46.20%,BYD Dolphin 
+Smart Charging,6,18,33.30%,BYD Dolphin 
+Car Wallet,2,6,33.30%,BYD Dolphin 
+Game,6,17,35.30%,BYD Dolphin 
+Video,12,15,80.00%,BYD Dolphin 
+Music,12,16,75.00%,BYD Dolphin 
+Ticket Booking,4,6,66.70%,BYD Dolphin 
+Food Ordering,6,7,85.70%,BYD Dolphin 
+Vpa,16,26,61.50%,VOLKSWAGEN ID.6
+APP Management ,4,7,57.10%,VOLKSWAGEN ID.7
+Remote Service ,3,8,37.50%,VOLKSWAGEN ID.8
+Personalization,3,10,25.00%,VOLKSWAGEN ID.9
+Instant Massage,0,7,0,VOLKSWAGEN ID.10
+Smart Navigation,2,15,13.30%,VOLKSWAGEN ID.11
+Smart Parking ,0,13,0,VOLKSWAGEN ID.12
+Smart Charging,0,18,0,VOLKSWAGEN ID.13
+Car Wallet,0,6,0,VOLKSWAGEN ID.14
+Game,0,17,0,VOLKSWAGEN ID.15
+Video,0,15,0,VOLKSWAGEN ID.16
+Music,12,16,50.00%,VOLKSWAGEN ID.17
+Ticket Booking,0,6,0,VOLKSWAGEN ID.18
+Food Ordering,0,7,0,VOLKSWAGEN ID.19
+Vpa,18,26,69%,GAC Aion V 
+APP Management ,6,7,86%,GAC Aion V 
+Remote Service ,8,8,100%,GAC Aion V 
+Personalization,8,10,100%,GAC Aion V 
+Instant Massage,0,7,0,GAC Aion V 
+Smart Navigation,9,15,62%,GAC Aion V 
+Smart Parking ,8,13,64%,GAC Aion V 
+Smart Charging,5,18,26%,GAC Aion V 
+Car Wallet,1,6,16.70%,GAC Aion V 
+Game,4,17,23.50%,GAC Aion V 
+Video,0,15,0,GAC Aion V 
+Music,8,16,50%,GAC Aion V 
+Ticket Booking,0,6,0,GAC Aion V 
+Food Ordering,0,7,0,GAC Aion V 
+Vpa,8,26,30.80%,Ford Edge 
+APP Management ,3,7,42.90%,Ford Edge 
+Remote Service ,3,8,37.50%,Ford Edge 
+Personalization,0,10,0,Ford Edge 
+Instant Massage,0,7,0,Ford Edge 
+Smart Navigation,9,15,60%,Ford Edge 
+Smart Parking ,8,13,61.50%,Ford Edge 
+Smart Charging,0,18,0,Ford Edge 
+Car Wallet,3,6,50%,Ford Edge 
+Game,0,17,0,Ford Edge 
+Video,9,15,60%,Ford Edge 
+Music,4,16,25%,Ford Edge 
+Ticket Booking,2,6,33.30%,Ford Edge 
+Food Ordering,6,7,85.70%,Ford Edge 
+Vpa,8,26,30.80%,Lixiang ONE 
+APP Management ,3,7,42.90%,Lixiang ONE 
+Remote Service ,8,8,100%,Lixiang ONE 
+Personalization,1,10,10%,Lixiang ONE 
+Instant Massage,4,7,57.10%,Lixiang ONE 
+Smart Navigation,8,15,53.30%,Lixiang ONE 
+Smart Parking ,5,13,38.50%,Lixiang ONE 
+Smart Charging,7,18,38.90%,Lixiang ONE 
+Car Wallet,0,6,0,Lixiang ONE 
+Game,6,17,35.20%,Lixiang ONE 
+Video,9,15,60%,Lixiang ONE 
+Music,4,16,25%,Lixiang ONE 
+Ticket Booking,0,6,0,Lixiang ONE 
+Food Ordering,0,7,0,Lixiang ONE 
+Vpa,11,26,42.30%,Haval F7 
+APP Management ,6,7,85.70%,Haval F7 
+Remote Service ,6,8,75%,Haval F7 
+Personalization,3,10,33.30%,Haval F7 
+Instant Massage,4,7,57.10%,Haval F7 
+Smart Navigation,7,15,46.70%,Haval F7 
+Smart Parking ,6,13,46.20%,Haval F7 
+Smart Charging,0,18,0,Haval F7 
+Car Wallet,2,6,33.3,Haval F7 
+Game,3,17,17.60%,Haval F7 
+Video,8,15,53.30%,Haval F7 
+Music,4,16,25%,Haval F7 
+Ticket Booking,0,6,0,Haval F7 
+Food Ordering,0,7,0,Haval F7 
